@@ -66,7 +66,14 @@ Building scalable backend applications with modern Python technologies.
 * PostgreSQL
 
 ---
+ Activity
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RubabFatima2&hide_border=true"/>
+
+</div>
+---
 ## Connect
 
 <p align="center">
