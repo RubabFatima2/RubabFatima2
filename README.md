@@ -67,22 +67,6 @@ Building scalable backend applications with modern Python technologies.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RubabFatima2&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubabFatima2&layout=compact&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RubabFatima2&hide_border=true"/>
-
-</div>
-
----
-
 ## Connect
 
 <p align="center">
@@ -97,7 +81,7 @@ Building scalable backend applications with modern Python technologies.
 
 <!-- Replace with your actual LinkedIn profile URL -->
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/linkedin.com/in/rubab-f-bb4716366">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
